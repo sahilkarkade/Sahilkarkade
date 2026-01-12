@@ -1,12 +1,16 @@
-<h2 align="left">Hi 👋! I'm Sahil and I'm a CSE Eng Student from India</h2>
+# 💫 Hi 👋, I'm Sahil Karkade
+**Student || Frontend Devloper || Studying in S. B. Jain Institute of Technology, Management & Research, Nagpur**
 
+Email Me 👉 ✉️ **sahilkarkade11@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Frontend Development 
+- 🌱 **I’m currently learning:** Python:: opps
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:**sahilkarkade11@gmail.co
+- ⚡ **Fun fact:** I Love Games, and Games love Me
+
+# 💻 Tech Stack:
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 
@@ -30,6 +34,7 @@
 </div>
 
 ###
+## 🌐 Socials:
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -56,6 +61,8 @@
 </div>
 
 ###
+
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ###
