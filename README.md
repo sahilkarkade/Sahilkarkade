@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **sahilkarkade11@gmail.com** For Collaboration/Project or A
 - 🔭 **I’m currently working on:** Frontend Development 
 - 🌱 **I’m currently learning:** Python:: opps
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:**sahilkarkade11@gmail.co
+- 📫 **How to reach me:**sahilkarkade11@gmail.com
 - ⚡ **Fun fact:** I Love Games, and Games love Me
 
 # 💻 Tech Stack:
